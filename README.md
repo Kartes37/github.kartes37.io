@@ -10,11 +10,6 @@ Bienvenue sur mon portfolio GitHub ! Vous trouverez ici une présentation de mes
 
 Ce repository sert de page d'accueil pour présenter mes autres projets. Vous pouvez y trouver des liens vers mes différents dépôts ainsi que des informations supplémentaires sur mon travail.
 
-## 🌟 Mon Logo
-
-<!-- Ici, tu peux insérer ton logo avec une taille contrôlée -->
-
-<img src="![alt text](image-2.png)" alt="Logo" width="150" height="150">
 
 
 ## 🚀 Mes Projets
