@@ -28,24 +28,6 @@ Ce repository sert de page d'accueil pour présenter mes autres projets. Vous po
 
 <!-- Ajoute ici d'autres projets en suivant le même format -->
 
-## 📷 Photo ou image intéressantes
-
-<!-- Section pour ajouter des images de présentation -->
-
-Vous pouvez ajouter des captures d'écran de vos projets pour illustrer votre travail.
-
-### Projet 1
-
-![Capture du Projet 1](https://via.placeholder.com/800x400.png?text=Projet+1)
-
-### Projet 2
-
-![Capture du Projet 2](https://via.placeholder.com/800x400.png?text=Projet+2)
-
-### Projet 3
-
-![Capture du Projet 3](https://via.placeholder.com/800x400.png?text=Projet+3)
-
 ## 📬 Me Contacter
 
 <!-- Informations de contact -->
