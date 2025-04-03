@@ -20,13 +20,15 @@ Ce repository sert de page d'accueil pour présenter mes autres projets. Vous po
 
 <!-- Liste des repositories avec des liens directs vers chacun d'eux -->
 
-- [Nom_du_Projet_1](https://github.com/utilisateur/Nom_du_Projet_1) - Brève description du projet 1.
-- [Nom_du_Projet_2](https://github.com/utilisateur/Nom_du_Projet_2) - Brève description du projet 2.
-- [Nom_du_Projet_3](https://github.com/utilisateur/Nom_du_Projet_3) - Brève description du projet 3.
+- [ScriptAnalyse](https://github.com/Kartes37/ScriptAnalyse.git) - Ce script Bash effectue une série de configurations post-installation, y compris la mise à jour du système, l'installation de paquets depuis un fichier, la personnalisation des fichiers de configuration utilisateur, l'ajout d'une clé SSH, et la configuration de SSH pour accepter uniquement l'authentification par clé.
+
+- [Populate-an-active-Directory-by-script](https://github.com/Kartes37/Populate-an-active-Directory-by-script.git) - Le processus consiste à préparer des fichiers CSV pour importer des utilisateurs dans Active Directory, créer des unités d'organisation, et exécuter un script PowerShell pour importer les utilisateurs dans les OU appropriées, en ajoutant des administrateurs au groupe "Domain Admins" et en gérant les erreurs liées aux doublons ou groupes manquants.
+
+- [Code-command-useful](https://github.com/Kartes37/Code-command-useful.git) - Ce repository contient plusieurs scripts qui m'ont été utiles.
 
 <!-- Ajoute ici d'autres projets en suivant le même format -->
 
-## 📷 Captures d'écran
+## 📷 Photo ou image intéressantes
 
 <!-- Section pour ajouter des images de présentation -->
 
@@ -50,9 +52,7 @@ Vous pouvez ajouter des captures d'écran de vos projets pour illustrer votre tr
 
 Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter :
 
-- 📧 Email : votre.email@example.com
-- 🐦 Twitter : [@votreprofil](https://twitter.com/votreprofil)
-- 🔗 LinkedIn : [Votre Nom](https://www.linkedin.com/in/votrenom)
+- 📧 Email : garyetbob.patrick@yahoo.com
 
 ## 📜 Licence
 
