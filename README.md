@@ -14,8 +14,8 @@ Ce repository sert de page d'accueil pour présenter mes autres projets. Vous po
 
 <!-- Ici, tu peux insérer ton logo. Assure-toi de remplacer le lien par l'URL de ton logo ou l'emplacement relatif dans ton dépôt -->
 
-![Logo de Mon Projet](https://via.placeholder.com/200x200.png?text=Mon+Logo)
-
+![Logo de Mon Projet](image.png)
+![alt text](image-1.png))
 ## 🚀 Mes Projets
 
 <!-- Liste des repositories avec des liens directs vers chacun d'eux -->
