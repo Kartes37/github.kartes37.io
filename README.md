@@ -12,9 +12,10 @@ Ce repository sert de page d'accueil pour présenter mes autres projets. Vous po
 
 ## 🌟 Mon Logo
 
-<!-- Ici, tu peux insérer ton logo. Assure-toi de remplacer le lien par l'URL de ton logo ou l'emplacement relatif dans ton dépôt -->
+<!-- Ici, tu peux insérer ton logo avec une taille contrôlée -->
 
-![Logo de Mon Projet](image.png)
+<img src="![alt text](image-2.png)" alt="Logo" width="150" height="150">
+
 
 ## 🚀 Mes Projets
 
