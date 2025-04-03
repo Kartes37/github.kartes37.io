@@ -18,7 +18,7 @@ Ce repository sert de page d'accueil pour présenter mes autres projets. Vous po
 
 - [Nom_du_Projet_1](https://github.com/Kartes37/ScriptAnalyse.git) - Brève description du projet 1.
 - [Nom_du_Projet_2](https://github.com/Kartes37/Populate-an-active-Directory-by-script.git) - Brève description du projet 2.
-#- [Nom_du_Projet_3](https://github.com/utilisateur/Nom_du_Projet_3) - Brève description du projet 3.
+- [Nom_du_Projet_3](https://github.com/utilisateur/Nom_du_Projet_3) - Brève description du projet 3.
 
 <!-- Ajoute ici d'autres projets en suivant le même format -->
 
@@ -36,9 +36,9 @@ Vous pouvez ajouter des captures d'écran de vos projets pour illustrer votre tr
 
 Si vous avez des questions ou souhaitez collaborer, n'hésitez pas à me contacter :
 
-- 📧 Email : votre.email@example.com
-- 🐦 Twitter : [@votreprofil](https://twitter.com/votreprofil)
-- 🔗 LinkedIn : [Votre Nom](https://www.linkedin.com/in/votrenom)
+- 📧 Email : garyetbob.patrick@yahoo.com
+- 🐦 Twitter : [@votreprofil](J'ai pas X)
+- 🔗 LinkedIn : [Theo.Bondu](https://www.linkedin.com/in/theo-bondu/)
 
 ## 📜 Licence
 
